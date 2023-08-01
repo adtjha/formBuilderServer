@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aditya Jha <4075396+adtjha@users.noreply.github.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -15,5 +16,6 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2"
-  }
+  },
+  "repository": "https://github.com/adtjha/formBuilderServer.git"
 }
